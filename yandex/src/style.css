@@ -1,0 +1,267 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+  color: #1f1f1f;
+}
+
+.header {
+  width: 1920px;
+  height: 100vh;
+  top: -123px;
+  gap: 0px;
+  opacity: 0px;
+  gap: 0px;
+  background: url("d49b12f28dde28847882a4abcd9cb75b.jpeg") center no-repeat
+    #c89b70;
+}
+.horse-logo {
+  position: absolute;
+  width: 245.17px;
+  height: 36px;
+  top: 26px;
+  left: 349px;
+}
+.logo-name {
+  position: absolute;
+  width: 147px;
+  height: 36px;
+  top: 0px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Golos Text;
+  font-size: 15.65px;
+  font-weight: 700;
+  line-height: 17.98px;
+  text-align: left;
+  font-family: Golos Text;
+  letter-spacing: 0.01em;
+  color: #595653;
+  word-break: break-all;
+}
+.pp {
+  color: #595653;
+  font-family: Golos Text;
+  font-size: 15.65px;
+  font-weight: 700;
+  line-height: 17.98px;
+  width: 147px;
+  height: 36px;
+  letter-spacing: 0.01em;
+}
+.header.horse-logo {
+  position: absolute;
+  width: 21.65px;
+  height: 31.18px;
+  top: 28.31px;
+  left: 395.77px;
+  gap: 0px;
+  opacity: 0px;
+}
+.main-content {
+  position: absolute;
+  width: 542px;
+  height: 444px;
+  top: 124px;
+  left: 348.5px;
+}
+.main-content .text1 {
+  width: 542px;
+  height: 132px;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 66px;
+}
+.main-content .text2 {
+  position: absolute;
+  width: 360px;
+  height: 66px;
+  top: 132px;
+  left: 91px;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 66px;
+  text-align: right;
+}
+.main-content .text3 {
+  position: absolute;
+  width: 542px;
+  height: 66px;
+  top: 198px;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 66px;
+  text-align: right;
+}
+.main-content .text4 {
+  position: absolute;
+  width: 542px;
+  height: 46px;
+  top: 288px;
+  gap: 0px;
+  opacity: 0px;
+  font-optical-sizing: auto;
+  font-family: Golos Text;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: center;
+}
+.btn-cont {
+  display: flex;
+  position: absolute;
+  width: 542px;
+  height: 72px;
+  top: 374px;
+  gap: 16px;
+}
+
+.btn1 {
+  width: 263px;
+  height: 72px;
+  padding: 16px;
+  gap: 0px;
+  border: 2px solid black;
+  border-radius: 66px;
+  font-family: Golos Text;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.8px;
+  text-align: center;
+  transition: background-color 0.5s;
+}
+.btn2 {
+  width: 263px;
+  height: 72px;
+  padding: 24px;
+  gap: 0px;
+  border: 2px solid black;
+  border-radius: 66px;
+  font-family: Golos Text;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.8px;
+  text-align: center;
+  transition: background-color 0.5s;
+}
+.btn1:hover {
+  background-color: #1f1f1f;
+  color: white;
+}
+.btn2:hover {
+  background-color: #1f1f1f;
+  color: white;
+}
+.city {
+  z-index: 0;
+  position: absolute;
+  width: 1645.5px;
+  height: 451.5px;
+  top: 304px;
+  left: 147.5px;
+  pointer-events: none;
+}
+.city-shadow {
+  z-index: 0;
+  position: absolute;
+  width: 1623.5px;
+  height: 452.5px;
+  top: 299px;
+  left: 145.5px;
+  pointer-events: none;
+}
+.chess1 {
+  z-index: auto;
+  position: absolute;
+  width: 113.16px;
+  height: 252.44px;
+  top: 213.29px;
+  left: 1372.79px;
+  gap: 0px;
+  border: 0.26px 0px 0px 0px;
+  opacity: 0px;
+}
+.chess2 {
+  position: absolute;
+  width: 82.61px;
+  height: 122.22px;
+  top: 618.2px;
+  left: 1519.83px;
+  gap: 0px;
+  opacity: 0px;
+}
+.chess3 {
+  position: absolute;
+  width: 192.87px;
+  height: 243.99px;
+  top: 511.85px;
+  left: 1113.64px;
+  gap: 0px;
+  opacity: 0px;
+}
+.chess4 {
+  position: absolute;
+  width: 103.78px;
+  height: 255.89px;
+  top: 309.19px;
+  left: 1007.18px;
+  gap: 0px;
+  opacity: 0px;
+}
+.group {
+  position: absolute;
+  width: 789px;
+  height: 714px;
+  top: -11.24px;
+  left: 889.85px;
+  gap: 0px;
+  opacity: 0px;
+}
+.elips {
+  position: absolute;
+  width: 673px;
+  height: 661px;
+  top: -19px;
+  left: 949px;
+  opacity: 0.8;
+}
+.run-stroke {
+  display: flex;
+  width: 2335px;
+  height: 60px;
+  top: -1549px;
+  left: -2972px;
+  padding: 18px 12px 18px 12px;
+  gap: 12px;
+  background: #f54932;
+}
+.some-text {
+  font-family: Merriweather;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 24.2px;
+  color: white;
+  text-transform: uppercase;
+}
+.elips-mini {
+  width: 6px;
+  height: 6px;
+}
+.cont {
+  display: inline;
+  animation: runningtext 20s linear infinite;
+  overflow: hidden;
+}
+
+@keyframes runningtext {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
